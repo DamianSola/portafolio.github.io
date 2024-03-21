@@ -1,0 +1,85 @@
+[
+    {
+        "_id": "62f17b957804e519b6e6905d",
+        "name": "Wixxer",
+        "tecnologies": {
+            "_id": "62d702e07d59f7f9467d3caf",
+            "nameSkill": "css3",
+            "img": "https://www.jose-aguilar.com/blog/wp-content/uploads/2012/07/css3.png",
+            "__v": 0
+        },
+        "description": "Wixxer es una app web e-commerce de servicios freelancers creada durante la cursada en Henry y presentado como proyecto final.",
+        "show": "https://wixxer-haroldnc.vercel.app/",
+        "imgPincipaly": "https://assets.soyhenry.com/henry-landing/assets/microlandings/SoftwareIntro.jpg",
+        "imgSecondary": [
+            "https://www.linkedin.com/dms/D4D06AQGj1_sxH8xVtw/messaging-attachmentFile/0/1659645599373?m=AQKBMzpz1AbNBgAAAYJr_5CdMe1j0XmHbiZdo3fMvrmxXPuy5DwMV0-NjQ&ne=1&v=beta&t=4PF0yzrboi3Q3pQfzAN4sQED6AmomhBFbRDawQvX6Fs",
+            "https://www.linkedin.com/dms/D4D06AQG2ELmpGGs-GQ/messaging-attachmentFile/0/1659645620370?m=AQJb58O-iJ4s_gAAAYJr_5CZZFhKlaqlAr2IL8W-oTMATtq3orJOEIvAsw&ne=1&v=beta&t=nwTvrfEMkkwjNzpKiRlMa3U62wTCjZG3LJjeDv0Ic90",
+            "https://www.linkedin.com/dms/D4D06AQGZrjv8yExqfg/messaging-attachmentFile/0/1659645632982?m=AQJlCDgTJOFDEAAAAYJr_5CcIEiFRXLQtp_MGTF0ve-VrkwNfUn4wcMicg&ne=1&v=beta&t=_k2srETERuOf2H3GETAII_vLCim5mHixUiBaj425lcg"
+        ],
+        "code": "https://github.com/haroldnc/PF-e-commerce"
+    },
+    {
+        "_id": "62f17b957804e516905d",
+        "name": "Infinium Analytics",
+        "tecnologies": {
+            "_id": "62d702e07d59f7f9467d3caf",
+            "nameSkill": "css3",
+            "img": "https://www.jose-aguilar.com/blog/wp-content/uploads/2012/07/css3.png",
+            "__v": 0
+        },
+        "description": "infinium analitics es una empresa que brinda soluciones de Business Intelligence y Data Analytics a clientes de todas las industrias.",
+        "show": "https://infiniumanalytics.net/",
+        "imgPincipaly": "/infiniumScreen.jpg",
+        "code": "https://github.com/DamianSola/Infinium-Analytics"
+
+    },
+    {
+        "_id": "62f17b957804e516905d",
+        "name": "Sant Gall Friburg",
+        "tecnologies": {
+            "_id": "62d702e07d59f7f9467d3caf",
+            "nameSkill": "css3",
+            "img": "https://www.jose-aguilar.com/blog/wp-content/uploads/2012/07/css3.png",
+            "__v": 0
+        },
+        "description": "Sant Gall Friburg es una pagina web de un laboratorio.",
+        "show": "https://sant-gall-friburg.vercel.app/",
+        "imgPincipaly": "https://sant-gall-friburg.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fsg-logo.fc7d5d33.png&w=384&q=75",
+        "imgSecondary": [
+        ],
+        "code": "https://github.com/DamianSola/Sant-Gall-Friburg"
+        
+    },
+    {
+        "_id": "62ed3ccac00c9369bb747148",
+        "name": "pokemones",
+        "description": "Es una simple page app de pokemones. \nLa app muestra solo 40 pokemones pero puedes buscar cualquiera que exista. Puedes crear tu propio pokemon y agregar a la db.\n",
+        "show": "https://youtu.be/iAf9F0RsE5Q",
+        "imgPincipaly": "https://www.xtrafondos.com/wallpapers/pikachu-4934.jpg",
+        "imgSecondary": [
+            "https://i.ytimg.com/vi/JhUqf_fhgeA/maxresdefault.jpg",
+            "https://1.bp.blogspot.com/-AQkGK5RK--w/YK-v7C6hWHI/AAAAAAAAA8c/dFbhX8GpZ54NUz26wYIpaZlUlvTVdYzFgCNcBGAsYHQ/s1280/pokemon%2Bviajes%2Bcapitulo%2B48%2Blatino.jpg"
+        ],
+        "author": {
+            "_id": "62f1615f1272cc88568b3282",
+            "firstName": "https://simple-page-app-pokemones.vercel.app/"
+        },
+        "__v": 0,
+        "code": "https://github.com/DamianSola/SimplePageApp-Pokemones"
+
+    },
+    {
+        "_id": "62ed3ccac20c9369bb747148",
+        "name": "Colmena",
+        "description": "Sitio web estatico de una desrrollo inmobiliario. \nCreado con Tailwind CSS, Nextjs y React\n",
+        "show": "https://colmena-tan.vercel.app/",
+        "imgPincipaly": "https://www.xtrafondos.com/wallpapers/pikachu-4934.jpg",
+        "imgSecondary": [
+            "https://i.ytimg.com/vi/JhUqf_fhgeA/maxresdefault.jpg",
+            "https://1.bp.blogspot.com/-AQkGK5RK--w/YK-v7C6hWHI/AAAAAAAAA8c/dFbhX8GpZ54NUz26wYIpaZlUlvTVdYzFgCNcBGAsYHQ/s1280/pokemon%2Bviajes%2Bcapitulo%2B48%2Blatino.jpg"
+        ],
+        "__v": 0,
+        "code": "https://github.com/DamianSola/Colmena"
+
+    }
+]
