@@ -81,5 +81,18 @@
         "__v": 0,
         "code": "https://github.com/DamianSola/Colmena"
 
+    }, {
+        "_id": "62ed3ccac20c9369bb747158",
+        "name": "Kimche challenge",
+        "description": "Es una SPA de los personajes de Rick and Morty, desarrollado con Vite, GraphQL y Apollo Client. Fue una gran experiencia ya que tuve tres dias para aprender estas tecnologias y desarrollar la app.\n",
+        "show": "https://kimche-challenge-five.vercel.app/",
+        "imgPincipaly": "https://www.xtrafondos.com/wallpapers/pikachu-4934.jpg",
+        "imgSecondary": [
+            "https://i.ytimg.com/vi/JhUqf_fhgeA/maxresdefault.jpg",
+            "https://1.bp.blogspot.com/-AQkGK5RK--w/YK-v7C6hWHI/AAAAAAAAA8c/dFbhX8GpZ54NUz26wYIpaZlUlvTVdYzFgCNcBGAsYHQ/s1280/pokemon%2Bviajes%2Bcapitulo%2B48%2Blatino.jpg"
+        ],
+        "__v": 0,
+        "code": "https://github.com/DamianSola/Kimche-challenge"
+
     }
 ]
